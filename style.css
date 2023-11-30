@@ -1,0 +1,34 @@
+.footer{
+  position: absolute;
+    bottom: 0%;
+    width: 100%;
+    height: 60px;
+    padding-top:5px;
+    padding-bottom:5px;
+}
+
+body {
+  background-image: url('https://marketplace.canva.com/EAE_UirjXJM/1/0/1600w/canva-cool-gaming-desktop-wallpaper-JWiqmY0AnjE.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  height: 100vh;
+}
+
+p {
+  font-size: 16px;
+}
+
+@media screen and (max-width: 768px) {
+ 
+  .navbar-item {
+      margin-right: 0; 
+  }
+  .button.is-link {
+      margin-right: 0; 
+  }
+  
+}
+
+
+
